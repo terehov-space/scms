@@ -1,0 +1,13 @@
+{
+    "name": "terehov/scms",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "terehov-space",
+            "email": "terehov.space@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
